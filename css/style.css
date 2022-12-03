@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Espana;
+    src: url(Marcellus-Regular.ttf);
+  }
+
+h1{
+    font-family: Espana;
+}
+body{
+    font-family: Espana;
+}
+p{
+    font-size:20px;
+}
+.table-center
+{
+    width: 80%;
+    height: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: auto;
+    margin-right: auto; 
+    box-shadow: 7px 7px 5px 0px rgba(216, 215, 215, 0.75);
+ 
+}
+
+td, th {
+    border: 2px solid rgb(228, 228, 228,0.75);
+    border-collapse: collapse;
+  }
